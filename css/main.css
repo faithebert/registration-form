@@ -26,3 +26,7 @@ h1 {
 body div:first-child {
   max-width: 608px;
 }
+
+.grid div:first-child, .grid div:nth-child(3) {
+  padding-right: .5rem;
+}
