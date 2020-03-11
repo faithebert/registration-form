@@ -22,3 +22,7 @@ legend {
 h1 {
   border-bottom: 1px solid #000;
 }
+
+body div:first-child {
+  max-width: 608px;
+}
