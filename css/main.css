@@ -5,6 +5,7 @@ html {
 
 body div:first-child {
   background-color: #fff;
+  max-width: 608px;
 }
 
 div {
@@ -21,10 +22,6 @@ legend {
 
 h1 {
   border-bottom: 1px solid #000;
-}
-
-body div:first-child {
-  max-width: 608px;
 }
 
 .grid div:first-child, .grid div:nth-child(3) {
