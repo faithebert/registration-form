@@ -1,0 +1,16 @@
+html {
+  font-family: Open Sans, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.island {
+  background-color: #fff;
+}
+
+div {
+  padding-bottom: 1rem;
+}
+
+fieldset > legend {
+  padding-bottom: 1rem;
+}
