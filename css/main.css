@@ -3,7 +3,7 @@ html {
   background-color: #f2f2f2;
 }
 
-.island {
+body div:first-child {
   background-color: #fff;
 }
 
