@@ -1,5 +1,5 @@
 html {
-  font-family: Open Sans, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: #f2f2f2;
 }
 
@@ -24,6 +24,10 @@ h1 {
   border-bottom: 1px solid #000;
 }
 
-.grid div:first-child, .grid div:nth-child(3) {
-  padding-right: .5rem;
+@media only screen and (min-width: 60em) {
+
+  .grid div:first-child, .grid div:nth-child(3) {
+    padding-right: .5rem;
+  }
+
 }
